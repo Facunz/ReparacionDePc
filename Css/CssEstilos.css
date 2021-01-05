@@ -29,6 +29,7 @@ ul{
 	width: auto;
 }
 .Lista li{
+	font-size: 30px;
 	list-style-type: square;
 }
 body{
