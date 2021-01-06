@@ -16,7 +16,7 @@
 	width: auto;
 }
 .Contacto li{
-	font-size:45px; /*40px*/
+	font-size:42px; /*40px*/
 	width: auto;
 	display: inline-block;
 }
@@ -30,7 +30,7 @@ ul{
 }
 .Lista li{
 	list-style-type: square;
-	font-size:26px;
+	font-size:20px;
 }
 body{
 	background: #fafafa;
