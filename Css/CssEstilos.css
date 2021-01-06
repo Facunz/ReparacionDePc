@@ -1,6 +1,6 @@
 @media screen and (max-width:490px){
 	#contenedor {
-		width:100%;
+		width:auto;
 }
 }
 *{
@@ -12,7 +12,7 @@
 }
 .wrap {
 	margin: auto;
-	max-width: 100%;/*800px*/
+	max-width: 90%;/*800px*/
 	width: auto;
 }
 .Contacto li{
@@ -25,12 +25,12 @@
 }
 ul{
 	margin: auto;
-	max-width: 800px; /*800px*/
+	max-width: 850px; /*800px*/
 	width: auto;
 }
 .Lista li b{
 	list-style-type: square;
-	font-size:12px;
+	font-size:15px;
 }
 body{
 	background: #fafafa;
@@ -69,14 +69,14 @@ h1{
 	width:auto;
 	text-shadow: 1px 2px 0px #09F;
 }
-li{
+li {
 	text-shadow: 1px 1px 0px #09C;
-	margin:20px 40px;
+	margin:20px 20px;
 	list-style-type:square;
-	font-size:16px;
+	font-size:15px;
 	font-family:Verdana, Geneva, sans-serif;
 	text-align: left;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	padding: 10px;
 	width: 100%;
 	size:50px;
